@@ -1,0 +1,3 @@
+#!/bin/bin
+cat '10-tail /etc/passwd'
+/n
